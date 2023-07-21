@@ -1,0 +1,69 @@
+body {
+    width: 1032px;
+    margin: auto;
+    background-image: url(background.jpg);
+    background-size: cover;
+    padding: 55px;
+}
+
+#box {
+    border-radius: 3%;
+    background-color: rgba(0, 0, 0, .6);
+    padding: 70px;
+    height: 684px;
+    width: 969px;
+    }
+
+header {
+    text-align: center;
+}
+
+img {
+    width: 250px;
+}
+
+header > h1 {
+    color: rgb(0, 255, 0);
+    font-family: "Trirong", serif;
+}
+
+header div {
+    background-color: rgb(0, 255, 0);
+    padding: 10px;
+}
+
+.monopattino {
+    font-weight: bold;
+    font-size: 25px;
+    font-family: "Trirong", serif;
+    color: white;
+}
+
+main div {
+    font-size: 16px;
+    font-family: "Trirong", serif;
+    color: white;
+}
+
+#chargestatus1, #chargestatus2, #chargestatus3 {
+    display: inline-block;
+    height: 33px;
+    border-radius: 7px;
+}
+
+#chargestatus1{
+    background-color: rgb(255, 196, 86);
+    width: 366px;
+}
+
+#chargestatus2{
+    display: inline-block;
+    background-color: rgb(27, 162, 38);
+    width: 637px;
+}
+
+#chargestatus3{
+    display: inline-block;
+    background-color: rgb(215, 45, 11);
+    width: 120px;
+}
