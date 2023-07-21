@@ -12,7 +12,7 @@ body {
     padding: 70px;
     height: 684px;
     width: 969px;
-    }
+}
 
 header {
     text-align: center;
@@ -57,13 +57,11 @@ main div {
 }
 
 #chargestatus2{
-    display: inline-block;
     background-color: rgb(27, 162, 38);
     width: 637px;
 }
 
 #chargestatus3{
-    display: inline-block;
     background-color: rgb(215, 45, 11);
     width: 120px;
 }
