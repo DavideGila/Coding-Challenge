@@ -4,6 +4,7 @@ body {
     background-image: url(background.jpg);
     background-size: cover;
     padding: 55px;
+    font-family: "Trirong", serif;
 }
 
 #box {
@@ -24,7 +25,6 @@ img {
 
 header > h1 {
     color: rgb(0, 255, 0);
-    font-family: "Trirong", serif;
 }
 
 header div {
@@ -35,13 +35,11 @@ header div {
 .monopattino {
     font-weight: bold;
     font-size: 25px;
-    font-family: "Trirong", serif;
     color: white;
 }
 
 main div {
     font-size: 16px;
-    font-family: "Trirong", serif;
     color: white;
 }
 
